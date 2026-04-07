@@ -42,31 +42,28 @@ Analizar el rendimiento integral de un e-commerce mediante dashboards interactiv
 
 ## Análisis realizados
 
-### 🔹 Ventas por ubicación
+### Ventas por ubicación
 - Identificación de provincias con mayor volumen de ventas  
 - Posibilidad de expansión en regiones menos explotadas  
 
-### 🔹 Fuente de tráfico
+### Fuente de tráfico
 - Tráfico orgánico como principal canal  
-- Paid media con menor contribución relativa  
 
-### 🔹 Categorías de productos
+###  Categorías de productos
 - “Belleza” lidera ampliamente  
 - Buen desempeño en “Mascotas” y “Oficina”  
 
-### 🔹 Top productos
+### Top productos
 - Productos como *Fideos* y *Dulce de Leche* destacan en ventas  
 - Identificación de productos clave para el negocio  
 
-### 🔹 Crecimiento de productos
+### Crecimiento de productos
 - Análisis mes a mes del rendimiento  
 - Algunos productos con crecimiento positivo (ej: Fideos +51,4%)  
 - Otros con caídas significativas → posible problema de demanda o stock  
 
-### 🔹 Comportamiento del usuario
+### Comportamiento del usuario
 - Alta tasa de abandono de carrito (~50%)  
-- Indica fricción en el proceso de compra  
-
 ---
 
 ## Insights clave
@@ -78,7 +75,7 @@ Analizar el rendimiento integral de un e-commerce mediante dashboards interactiv
 ---
 
 ## Recomendaciones
-- Implementar estrategias de remarketing para recuperar carritos  
+- Implementar estrategias de marketing para recuperar carritos  
 - Optimizar la experiencia de usuario en el checkout  
 - Invertir en campañas pagas más eficientes  
 - Reforzar stock y promoción de productos con mejor performance  
@@ -93,7 +90,7 @@ Analizar el rendimiento integral de un e-commerce mediante dashboards interactiv
 
 ---
 
-## 📊 Características del dashboard
+## Características del dashboard
 - Navegación por secciones (Home, Productos, Marketing)  
 - Filtros dinámicos por provincia y fecha  
 - Visualizaciones interactivas para exploración de datos  
