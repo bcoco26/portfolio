@@ -1,0 +1,99 @@
+# E-commerce Sales Dashboard
+
+![Home](dashboard-home.png)
+![Productos](dashboard-productos.png)
+
+---
+
+## Objetivo
+Analizar el rendimiento integral de un e-commerce mediante dashboards interactivos, con foco en ventas, comportamiento del cliente y performance de productos, para detectar oportunidades de mejora en la toma de decisiones.
+
+---
+
+## Herramientas utilizadas
+- Power BI  
+- DAX (medidas personalizadas)  
+- Power Query (transformación de datos)  
+- Excel (fuente de datos)  
+
+---
+
+## Fuente de datos
+- Dataset proveniente de un archivo Excel  
+- Incluye información de ventas, productos, clientes y tráfico  
+
+---
+
+## Métricas principales
+
+### Vista General (Home)
+- Ganancia total: $4.183.695  
+- Órdenes: 4.000  
+- Carritos abandonados: 2.003  
+- Tasa de conversión: 5,95%  
+
+### Productos
+- Productos en stock: 2.016  
+- Ventas totales: $13.945.649  
+- Producto más vendido: *Salsa Lista*  
+- Categoría líder: *Belleza*  
+
+---
+
+## Análisis realizados
+
+### 🔹 Ventas por ubicación
+- Identificación de provincias con mayor volumen de ventas  
+- Posibilidad de expansión en regiones menos explotadas  
+
+### 🔹 Fuente de tráfico
+- Tráfico orgánico como principal canal  
+- Paid media con menor contribución relativa  
+
+### 🔹 Categorías de productos
+- “Belleza” lidera ampliamente  
+- Buen desempeño en “Mascotas” y “Oficina”  
+
+### 🔹 Top productos
+- Productos como *Fideos* y *Dulce de Leche* destacan en ventas  
+- Identificación de productos clave para el negocio  
+
+### 🔹 Crecimiento de productos
+- Análisis mes a mes del rendimiento  
+- Algunos productos con crecimiento positivo (ej: Fideos +51,4%)  
+- Otros con caídas significativas → posible problema de demanda o stock  
+
+### 🔹 Comportamiento del usuario
+- Alta tasa de abandono de carrito (~50%)  
+- Indica fricción en el proceso de compra  
+
+---
+
+## Insights clave
+- Alta tasa de abandono → optimización del checkout necesaria  
+- Dependencia del tráfico orgánico → diversificar adquisición  
+- Identificación de productos top → foco en stock y marketing  
+- Caída en varios productos → revisar estrategia comercial  
+
+---
+
+## Recomendaciones
+- Implementar estrategias de remarketing para recuperar carritos  
+- Optimizar la experiencia de usuario en el checkout  
+- Invertir en campañas pagas más eficientes  
+- Reforzar stock y promoción de productos con mejor performance  
+- Analizar productos con caída para redefinir estrategia  
+
+---
+
+## Procesamiento de datos
+- Limpieza y transformación de datos realizada con Power Query  
+- Creación de medidas y KPIs mediante DAX  
+- Modelado de datos para optimizar relaciones y análisis  
+
+---
+
+## 📊 Características del dashboard
+- Navegación por secciones (Home, Productos, Marketing)  
+- Filtros dinámicos por provincia y fecha  
+- Visualizaciones interactivas para exploración de datos  
